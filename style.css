@@ -1,0 +1,22 @@
+body {
+    font: 20px arial, serif;
+}
+.navbar {
+   background-color: #C4FF33;
+}
+
+.quem-somos {
+    background-color: aqua;
+}
+
+.margin {
+    padding-bottom: 50px;
+}
+
+.servicos {
+    background-color:cornflowerblue;
+}
+
+.bg-footer {
+    background-color: darkgray;
+}
